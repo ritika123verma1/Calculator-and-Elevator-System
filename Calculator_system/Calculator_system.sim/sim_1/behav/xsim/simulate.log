@@ -1,0 +1,17 @@
+Time resolution is 1 ps
+
+===== Calculator Functional Testbench Start =====
+[                 ADD] A = 5, B = 3 => Result = 8, Error = 0
+[                 SUB] A = 7, B = 2 => Result = 5, Error = 0
+[                 MUL] A = 4, B = 3 => Result = 12, Error = 0
+[                 DIV] A = 8, B = 2 => Result = 4, Error = 0
+[                 MOD] A = 9, B = 4 => Result = 1, Error = 0
+[                 SQR] A = 5, B = 0 => Result = 25, Error = 0
+[                SQRT] A = 9, B = 0 => Result = 3, Error = 0
+[            DIV_BY_0] A = 6, B = 0 => Result = 0, Error = 1
+[              SQRT_0] A = 0, B = 0 => Result = 0, Error = 0
+[             NEG_SUB] A = 2, B = 6 => Result = 252, Error = 0
+
+===== Testbench Completed Successfully =====
+
+$finish called at time : 320 ns : File "C:/Users/ASUS/calculator_system/calculator_system.srcs/sim_1/new/calculator_tb.v" Line 110
