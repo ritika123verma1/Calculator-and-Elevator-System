@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+=== Starting Elevator FSM Testbench ===
+=== Finished Elevator FSM Testbench ===
+$finish called at time : 780 ns : File "C:/Users/ASUS/Elevator_system/Elevator_system.srcs/sim_1/new/elevator_fsm_tb.v" Line 95
